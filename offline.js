@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499558854,
+	"version": 1499629127,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,13 @@
 		"images/playerfoot1-sheet0.png",
 		"images/buttonleft-sheet0.png",
 		"images/buttonright-sheet0.png",
+		"images/spectatortallgoodie-sheet0.png",
+		"images/spectatormediumgoodie-sheet0.png",
+		"images/spawnerspecator-sheet0.png",
+		"images/spectatormediumbaddie-sheet0.png",
+		"images/spectatortallbaddie-sheet0.png",
+		"images/bang01-sheet0.png",
+		"images/boundaryleft-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
