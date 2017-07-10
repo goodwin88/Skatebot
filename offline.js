@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499637697,
+	"version": 1499644834,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,8 @@
 		"images/spectatortallbaddie-sheet0.png",
 		"images/bang01-sheet0.png",
 		"images/boundaryleft-sheet0.png",
+		"images/invisjumptarget-sheet0.png",
+		"images/invisjumper-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
