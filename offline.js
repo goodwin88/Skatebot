@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499644834,
+	"version": 1499787149,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,6 +36,9 @@
 		"images/boundaryleft-sheet0.png",
 		"images/invisjumptarget-sheet0.png",
 		"images/invisjumper-sheet0.png",
+		"images/combo-sheet0.png",
+		"images/combo-sheet1.png",
+		"images/combo-sheet2.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
